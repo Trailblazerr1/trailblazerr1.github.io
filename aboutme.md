@@ -4,8 +4,9 @@ title: About me
 subtitle: This page is under progress!
 ---
 
-My name is Anurag kushwaha.  I like the following topics::
-
+Undergrad , IIITian, developer, writer, probably a bathroom singer, bibliophile, huge technology freak,... More than anything else, a simple person with extraordinary dreams...
+    
+### Got a crush on:
 - Python
 - React-native
 
