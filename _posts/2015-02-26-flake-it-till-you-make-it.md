@@ -21,3 +21,5 @@ _Friend_: "So he killed her so that he could cry and get rich?"
 _Rich Kid_: "Yes, you're very quick"
 
 _Friend_: "But why couldn't he just smell an onion?"
+
+- Anurag
