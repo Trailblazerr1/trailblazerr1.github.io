@@ -24,4 +24,4 @@ Then I sent that data repeatedly to google books api and get their genres. If th
 - Beautiful soup has the best documentation among all python modules.     
 - Love of any form whether be it a girl or a book, makes you do strange things. :)  
    
-### Github repo : [Don't talk, show me the code](https://github.com/Trailblazerr1/advanced-library-book-search)
+[Don't talk, show me the code](https://github.com/Trailblazerr1/advanced-library-book-search)
