@@ -17,9 +17,9 @@ Since python came handy and api's are always free, it wasn't a problem.
    
 So, first I scraped the data from our library website with beautiful-soup and requests and got the list of all the book(not study books) in there. Then I sent that data repeatedly to google books api and get their genres. If the book's genre matched the requested genre the book was displayed, otherwise the script keeps on looking, leaving you to enjoy your favorite song.  
      
-## Lessons learnt
-- 'try' and 'except' blocks could be life-saver sometimes.
-- gzip is handy for making loads of requests.
-- Never try to scrape google's search results.
-- Beautiful soup has the best documentation among all python modules.
-- Love of any form whether be it a girl or a book, makes you do strange things. :)
+## Lessons learnt    
+- 'try' and 'except' blocks could be life-saver sometimes.     
+- gzip is handy for making loads of requests.     
+- Never try to scrape google's search results.     
+- Beautiful soup has the best documentation among all python modules.     
+- Love of any form whether be it a girl or a book, makes you do strange things. :)    
