@@ -6,8 +6,7 @@ date: '2017-01-15'
 subtitle: Jaime Lannister was always right.
 bigimg: /img/path1.jpg
 ---
-## The Things we do for love
-
+    
 Choosing a book is a humongous task, not as humongous as looking for a girl, though. Sometimes, it took me hours to find a  perfect thriller for me from the library website. First Ramble around the library website scanning among the clutter of books, then look for its review on goodreads, the whole routine wasn't appealing.   
      
 So the first thing I embarked upon from coming from holidays was to automate this whole 'book-finding' task for me.    
