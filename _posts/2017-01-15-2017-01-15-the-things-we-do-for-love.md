@@ -3,7 +3,7 @@ layout: post
 published: true
 title: The Things we do for love
 date: '2017-01-15'
-subtitle: Books made me do it.
+subtitle: Jaime Lannister was always right.
 ---
 ## The Things we do for love
 
@@ -18,4 +18,6 @@ So, first I scraped the data from our library website with beautiful-soup and re
 - gzip is handy for making loads of requests.
 - Never try to scrape google's search results.
 - Beautiful soup has the best documentation among all python modules.
+- Love of any form whether be it a girl or a book, makes you do strange things. :)
+
 
