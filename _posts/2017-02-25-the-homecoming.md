@@ -1,7 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: The Homecoming
+subtitle: Rants of Saturdays
 ---
 I think I am losing you.
 How do I know?
