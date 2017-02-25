@@ -10,7 +10,7 @@ bigimg: /img/path1.jpg
 Choosing a book is a humongous task, not as humongous as looking for a girl, though. Sometimes, it took me hours to find a  perfect thriller for me from the library website. First Ramble around the library website scanning among the clutter of books, then look for its review on goodreads, the whole routine wasn't appealing.   
      
 So the first thing I embarked upon from coming from holidays was to automate this whole 'book-finding' task for me.    
-Since python came handy and api's are always free, it wasn't a problem. 
+Since python was handy and api's are always free, it wasn't a problem. 
     
 ![Screenshot from 2017-01-15 17-59-05.png]({{site.baseurl}}/img/Screenshot%20from%202017-01-15%2017-59-05.png)    
    
