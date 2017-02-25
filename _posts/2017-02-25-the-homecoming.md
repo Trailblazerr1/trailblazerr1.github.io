@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: The Homecoming
-subtitle: Rants of Saturdays
+subtitle: Rants of boring Saturdays!
 ---
 I think I am losing you.
 How do I know?
