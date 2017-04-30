@@ -4,7 +4,7 @@ published: true
 title: Falling for her
 subtitle: When you have head full of conversations.
 ---
-"Two months of holidays at last." she patted gleefully on my back. "It is going to be..." she paused, tilted her head sideways and forced herself into my eyes.
+"Two months of holidays at last." she patted gleefully on my back. "It is going to be..." she paused, tilted her head sideways and forced herself in my eyes.
 
 "You aren't happy. I can see it?" 
 
