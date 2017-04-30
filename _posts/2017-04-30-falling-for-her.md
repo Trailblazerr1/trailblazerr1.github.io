@@ -36,4 +36,4 @@ subtitle: When you have head full of conversations.
 
 "Love." she purred softly, like it was the only noise universe managed to make. Her eyes calm like the eyes of hurricane. Now I know, why tornados are named after humans. How easy it was to fall for her! again and again.  
 
-"Two months of holidays at last." I smiled this time.
+"Two months of holidays at last." I smiled wide this time.
