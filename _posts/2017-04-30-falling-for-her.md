@@ -4,7 +4,7 @@ published: true
 title: Falling for her
 subtitle: When you have head full of conversations.
 ---
-"Two months of holidays at last." she patted gleefully on my back. "It is going to be ..." she paused, tilted her head sideways and forced herself into my eyes.
+"Two months of holidays at last." she patted gleefully on my back. "It is going to be..." she paused, tilted her head sideways and forced herself into my eyes.
 
 "You aren't happy. I can see it?" 
 
@@ -32,7 +32,7 @@ subtitle: When you have head full of conversations.
 
 "I would call the last sentence over-thinking."
 
-"I would call it ..." I rummaged around for words.   
+"I would call it..." I rummaged around for words.   
 
 "Love." she purred softly, like it was the only noise universe managed to make. Her eyes calm like the eye of a hurricane. Now I know, why tornados are named after humans. How easy it was to fall for her! again and again.  
 
