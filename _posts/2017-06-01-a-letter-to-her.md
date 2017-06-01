@@ -3,7 +3,7 @@ layout: post
 published: true
 title: A Letter To Her
 ---
-To,
+To,   
 The girl on the other side of screen
 
 You know, we aren't friends. We are two kids, who accidently, are in love with the same toys. We are the same flavor cup of coffee destined for different lips. We are the accidents that happen in waiting rooms rather than on railway tracks.
