@@ -6,10 +6,10 @@ title: A Letter To Her
 To,   
 The girl on the other side of screen
 
-You know, we aren't friends. We are two kids, who accidently, are in love with the same toys. We are the same flavor cup of coffee destined for different lips. We are the accidents that happen in waiting rooms rather than on railway tracks.
-You are my wardrobe of useless words.
-You are my favourite 10pm routine.
-You are my excuse to curse the clock.
+You know, we aren't friends. We are two kids, who accidently, are in love with the same toys. We are the same flavor cup of coffee destined for different lips. We are the accidents that happen in waiting rooms rather than on railway tracks.   
+You are my wardrobe of useless words.   
+You are my favourite 10pm routine.   
+You are my excuse to curse the clock.   
 
 When I stumbled upon you, I thought you were perfect like the rhythm of a cabaret dancer. With time unfolding, I found out that u too were human, a human with flaws. You have made mistakes, you have had your own share of heartbreaks and sometimes you have let people down, a chunk of you still struggles to stay sane. As this thing dawned upon me you felt a lot like me. Not everyone laughs at my jokes.
 
