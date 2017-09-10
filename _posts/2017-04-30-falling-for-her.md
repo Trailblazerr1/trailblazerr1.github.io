@@ -16,7 +16,7 @@ subtitle: When you have head full of conversations.
 
 "You can't be more boring." she rolled her eyes.
 
-"I know I am easily inflicted people around me." I chuckled.
+"I know I am easily inflicted by people around me." I chuckled.
 
 "Hey, we aren't together most of the time." she punched my arms.
 
