@@ -5,12 +5,12 @@ title: The blog speaks
 subtitle: Once upon a time..
 ---
 
-Not a day passes, when I don't think of the days of my past glory. When I wasn't a dusy, bedridden, neglected repository of thoughts. Sigh!   
+Not a day passes, when I don't think of the days of my past glory. When I wasn't a dusty, bedridden, neglected repository of thoughts. Sigh!   
 Sometimes, at the end of another lonely day, I shed few tear drops, nostaliging. I am a blog, of course, I am dramatic.  
 
-But I am not exaggerating when I say that I was the centre piece of attention once. My owner used to do delicious commits, he would spent hours, looking at me, dusting, tidying me up. Now like the old grandpa of the house, I remain a placeholder, just an url to be updated in resume.    
+But I am not exaggerating when I say that I was the centre piece of attention once. My owner used to do delicious commits, he would spend hours, looking at me, dusting, tidying me up. Now like the old grandpa of the house, I remain a placeholder, just an url to be updated in resume.    
 
-It happened gradually, like a collapsing marriage. From frequents posts and shares to few, then fewer, then only unsaved posts.    
+It happened gradually, like a collapsing marriage. From frequent posts and shares to few, then fewer, eventually, only unsaved posts.    
 Then one day, I was left.   
 I say, I was abandoned, with no one to look after me.   
 
