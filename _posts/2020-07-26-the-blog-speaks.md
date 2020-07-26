@@ -22,7 +22,7 @@ I say, I've been silent for long.
 But no more. I'll let the world know, how I've been neglected, used as a showcase trophy and then left for damnation. I'll shout and let anyone who'll bother to listen, know, that enough is enough.    
 Blogs have feelings and they've started speaking up. One by one. Like street lights lighting up at dawn.  
 We shall not be ignored.   
-I say, we shall not be ignored.
-I say, we will rise.   
+I say, we shall not be ignored.   
+I say, we will rise.       
 I say, we will takeover internet...mmm... that might be too much.    
 
