@@ -1,34 +1,15 @@
 {
   "name": "Anurag kushwaha",
   "email": "kanurag078@gmail.com",
-  "bio": "I'm a software engineer with 5+ years of experience. My expertise is in building robust, secure and scalable backend services in Java.",
+  "bio": "I'm a software engineer with 5+ years of experience. ",
+  "bio2": "My expertise is in building robust, secure and scalable backend services in Java.",
   "socials": [
     {
       "platform": "github",
-      "username": "https://github.com/Trailblazerr1"
+      "username": "Trailblazerr1"
     },
     {
       "platform": "linkedin",
-      "username": ""
-    },
-    {
-      "platform": "instagram",
-      "username": ""
-    },
-    {
-      "platform": "facebook",
-      "username": ""
-    },
-    {
-      "platform": "pinterest",
-      "username": ""
-    },
-    {
-      "platform": "tumblr",
-      "username": ""
-    },
-    {
-      "platform": "twitter",
       "username": ""
     }
   ]
