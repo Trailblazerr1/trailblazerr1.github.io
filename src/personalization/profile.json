@@ -1,11 +1,11 @@
 {
-  "name": "Name Username",
-  "email": "",
-  "bio": "Aliquam dictum scelerisque mi nec vehicula. Quisque sed finibus metus. Ut ultrices risus neque, eget porta ligula mattis a. Vestibulum ac vestibulum nunc, a pulvinar leo. Sed sodales eget enim vel porttitor.",
+  "name": "Anurag kushwaha",
+  "email": "kanurag078@gmail.com",
+  "bio": "I'm a software engineer with 5+ years of experience. My expertise is in building robust, secure and scalable backend services in Java.",
   "socials": [
     {
       "platform": "github",
-      "username": ""
+      "username": "https://github.com/Trailblazerr1"
     },
     {
       "platform": "linkedin",
