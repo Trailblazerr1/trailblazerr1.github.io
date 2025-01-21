@@ -122,7 +122,7 @@ export default function Home({ data }) {
                   class={`link`}
                   href='resume.pdf'
                   target="_blank"
-                  rel="noreferrer">Resume (Updated: Dec'24)
+                  rel="noreferrer">Resume (Updated: Jan'25)
                 </a>
               </div>
             </div>
