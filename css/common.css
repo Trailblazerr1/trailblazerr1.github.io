@@ -1,0 +1,35 @@
+/* ==========================================================================
+   common.css: Base Reset & Global Styles
+   ========================================================================== */
+* {
+    /* Reset all elements to have no margin (space outside elements) */
+    margin: 0;
+    /* Reset all elements to have no padding (space inside elements) */
+    padding: 0;
+    /* Change how width and height are calculated to include padding and border */
+    box-sizing: border-box;
+}
+
+body {
+/*    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;*/
+    font-family: "Atkinson Hyperlegible", ui-sans-serif, system-ui,-apple-system, 
+        "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    /* Set the line spacing to 1.6 times the font size for better readability */
+    line-height: 1.6;
+    /* Set the text color to a dark gray (#333) */
+    color: #333;
+    /* Limit the maximum width of the body to 800 pixels */
+    max-width: 800px;
+    /* Center the body horizontally by setting equal automatic margins on left and right */
+    margin: 0 auto;
+    /* Add 2rem (32px if base font size is 16px) of padding inside the body on all sides */
+    padding: 2rem;
+}
+
+/* This media query applies styles when the screen width is 600px or less */
+@media (max-width: 600px) {
+    body {
+        /* Reduce padding on smaller screens to 1rem to maximize content space */
+        padding: 1rem;
+    }
+}
