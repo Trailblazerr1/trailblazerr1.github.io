@@ -89,7 +89,7 @@
         /* Remove the left margin that was used in the desktop layout */
         margin-left: 0;
         /* Add space below the avatar */
-        margin-bottom: 1.5rem;
+        margin-bottom: 1rem;
         /* Slightly smaller avatar size for mobile */
         width: 110px; /* Consistent aspect ratio */
         /* Keep height equal to width to maintain circle shape */
