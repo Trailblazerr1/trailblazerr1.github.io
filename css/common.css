@@ -26,6 +26,17 @@ body {
     padding: 2rem;
 }
 
+
+/* Footer styles */
+.site-footer {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #f0f0f0;
+    color: #666;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
 /* This media query applies styles when the screen width is 600px or less */
 @media (max-width: 600px) {
     body {
