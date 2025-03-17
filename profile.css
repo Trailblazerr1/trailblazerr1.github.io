@@ -1,0 +1,212 @@
+/* ==========================================================================
+   profile.css: Header Components
+   ========================================================================== */
+
+
+/* Profile header (used in personal profile page) */
+.profile-header {
+    /* Use flexbox layout for positioning child elements */
+    display: flex;
+    /* Align items to the top of the container */
+    align-items: flex-start;
+    /* Place items with space between them */
+    justify-content: space-between;
+    /* Add space below the profile header */
+    margin-bottom: 2rem;
+    /* Add space between profile info and avatar */
+    gap: 2rem; 
+}
+
+
+.profile-info {
+    /* Make the profile info take up 2/3 of the available space */
+    flex: 2; 
+}
+
+.profile-name {
+    /* Make the name text large */
+    font-size: 2rem;
+    /* Make the name text bold */
+    font-weight: bold;
+    /* Add space below the name */
+    margin-bottom: 0.5rem;
+}
+
+.profile-tagline {
+    /* Make the tagline text italic */
+    font-style: italic;
+    /* Set the tagline color to a medium gray */
+    color: #666;
+    /* Add space below the tagline */
+    margin-bottom: 0.5rem;
+}
+
+.profile-description {
+    /* Add space below the profile description */
+    margin-bottom: 0.7rem;
+}
+
+.profile-avatar {
+    /* Prevent the avatar from growing or shrinking based on available space */
+    flex: 0 0 auto; /* This is done to not make profile picture size odd */
+    /* Set the avatar width to 120 pixels */
+    width: 120px;
+    /* Set the avatar height to 120 pixels to maintain a square shape */
+    height: 120px;
+    /* Make the avatar circular by setting a 50% border radius */
+    border-radius: 50%;
+    /* Hide any parts of the image that extend beyond the circular border */
+    overflow: hidden;
+    /* Add space to the left of the avatar */
+    margin-left: 2rem; /* Increased margin for better spacing */
+    /* Add a subtle shadow to create depth */
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1); 
+}
+
+.profile-avatar img {
+    /* Make the image fill the entire width of its container */
+    width: 100%;
+    /* Make the image fill the entire height of its container */
+    height: 100%;
+    /* Ensure the image covers the entire container without distortion */
+     /*The image keeps its aspect ratio and fills dimension. Image will be clipped to fit */
+    object-fit: cover;
+    /* Center the image within its container */
+    object-position: center; 
+}
+
+/*For smaller screen*/
+/* This media query applies styles when the screen width is 600px or less */
+@media (max-width: 600px) {
+    .profile-header {
+        /* Stack elements vertically instead of horizontally on small screens */
+        flex-direction: column-reverse;
+        /* Center elements horizontally in their container on mobile */
+        align-items: center; 
+    }
+    
+    .profile-avatar {
+        /* Remove the left margin that was used in the desktop layout */
+        margin-left: 0;
+        /* Add space below the avatar */
+        margin-bottom: 1rem;
+        /* Slightly smaller avatar size for mobile */
+        width: 110px; /* Consistent aspect ratio */
+        /* Keep height equal to width to maintain circle shape */
+        height: 110px; /* Same as width to ensure circle */
+    }
+}
+
+
+/* ==========================================================================
+   Contacts
+   ========================================================================== */
+
+
+/* Contact links section */
+.contact-links {
+    /* Add space below the contact links section */
+    margin-bottom: 2rem;
+}
+
+.contact-link {
+    /* Use flexbox to arrange icon and text */
+    display: flex;
+    /* Center the icon and text vertically */
+    align-items: center;
+    /* Add space below each contact link */
+    margin-bottom: 0.75rem;
+    /* Remove underline from contact links */
+    text-decoration: none;
+    /* Set contact link text color to dark gray */
+    color: #333;
+}
+
+.contact-link:hover {
+    /* Add underline to contact links when hovered */
+    text-decoration: underline;
+}
+
+.icon {
+    /* Display icons as inline blocks so they maintain their dimensions */
+    display: inline-block;
+    /* Set a fixed width for all icons */
+    width: 24px;
+    /* Add space to the right of each icon */
+    margin-right: 0.5rem;
+    /* Center the icon horizontally in its container */
+    text-align: center;
+}
+
+/* ==========================================================================
+   Section Titles & Headings
+   ========================================================================== */
+
+.section-title {
+    /* Add space below the section title text */
+    padding-bottom: 0.5rem;
+    /* Add a light gray border at the bottom of section titles */
+    border-bottom: 1px solid #eee;
+}
+
+
+/* ==========================================================================
+   Project Section
+   ========================================================================== */
+
+/* Category navigation */
+.projects-section {
+    /* Add significant space below the projects section */
+    margin-bottom: 3rem;
+}
+
+.project-card {
+    /* Add space below each project card */
+    margin-bottom: 2rem;
+    /* Add space inside the bottom of each project card */
+    padding-bottom: 1.5rem;
+    /* Add a light border at the bottom of each project card */
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.project-card:last-child {
+    /* Remove the bottom border from the last project card to avoid visual duplication */
+    border-bottom: none;
+}
+
+.project-title {
+    /* Make project titles larger than regular text */
+    font-size: 1.25rem;
+    /* Add space below project titles */
+    margin-bottom: 0.5rem;
+    /* Set project title color to dark gray */
+    color: #333;
+}
+
+.project-link {
+    /* Remove underline from project links */
+    text-decoration: none;
+    /* Set project link color to purple to match the site's color scheme */
+    color: #9c27b0;
+    /* Display links as inline blocks to maintain proper spacing */
+    display: inline-block;
+    /* Add space to the right of each project link */
+    margin-right: 1rem;
+}
+
+.project-link:hover {
+    /* Add underline to project links when hovered */
+    text-decoration: underline;
+}
+
+.project-description {
+    /* Add space below project descriptions */
+    margin-bottom: 1rem;
+}
+
+.project-tech {
+    /* Make technology tags slightly smaller than regular text */
+    font-size: 0.9rem;
+    /* Set technology tag color to medium gray */
+    color: #666;
+}
