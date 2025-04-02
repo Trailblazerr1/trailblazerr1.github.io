@@ -151,62 +151,9 @@
 
 
 /* ==========================================================================
-   Project Section
+   About Section
    ========================================================================== */
 
-/* Category navigation */
-.projects-section {
-    /* Add significant space below the projects section */
+.about-section {
     margin-bottom: 3rem;
-}
-
-.project-card {
-    /* Add space below each project card */
-    margin-bottom: 2rem;
-    /* Add space inside the bottom of each project card */
-    padding-bottom: 1.5rem;
-    /* Add a light border at the bottom of each project card */
-    border-bottom: 1px solid #f0f0f0;
-}
-
-.project-card:last-child {
-    /* Remove the bottom border from the last project card to avoid visual duplication */
-    border-bottom: none;
-}
-
-.project-title {
-    /* Make project titles larger than regular text */
-    font-size: 1.25rem;
-    /* Add space below project titles */
-    margin-bottom: 0.5rem;
-    /* Set project title color to dark gray */
-    color: #333;
-}
-
-.project-link {
-    /* Remove underline from project links */
-    text-decoration: none;
-    /* Set project link color to purple to match the site's color scheme */
-    color: #9c27b0;
-    /* Display links as inline blocks to maintain proper spacing */
-    display: inline-block;
-    /* Add space to the right of each project link */
-    margin-right: 1rem;
-}
-
-.project-link:hover {
-    /* Add underline to project links when hovered */
-    text-decoration: underline;
-}
-
-.project-description {
-    /* Add space below project descriptions */
-    margin-bottom: 1rem;
-}
-
-.project-tech {
-    /* Make technology tags slightly smaller than regular text */
-    font-size: 0.9rem;
-    /* Set technology tag color to medium gray */
-    color: #666;
 }
