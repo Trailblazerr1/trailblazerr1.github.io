@@ -7,5 +7,10 @@ It's small, simple and works!
 Linkblog based on similar template: https://anuragk.com/linkblog/
 
 *I've used LLMs to generate comments and refactor the code.*      
-     
-Styling inspired from [jimniels](https://github.com/jimniels/www)
+    
+## TODO
+
+    - [ ] Fix box and readme link on homepage.
+    - [ ] Add a new /projects page, to showcase all project.(Make new projects too.)
+        
+Idea inspired from [Simon Willison](https://simonwillison.net/) .Styling inspired from [jimniels](https://github.com/jimniels/www)
