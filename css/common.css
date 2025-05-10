@@ -27,6 +27,69 @@ body {
 }
 
 
+/* This media query applies styles when the screen width is 600px or less */
+@media (max-width: 600px) {
+    body {
+        /* Reduce padding on smaller screens to 1rem to maximize content space */
+        padding: 1rem;
+    }
+}
+
+/* Header layout */
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+}
+
+.header-left {
+    flex: 1;
+}
+
+.header-right {
+    padding-top: 0.5rem;
+}
+
+.home-link {
+    color: #9c27b0;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.2s ease;
+}
+
+.home-link:hover {
+    color: #7b1fa2;
+    text-decoration: underline;
+}
+
+.rss-link {
+    color: #9c27b0;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.2s ease;
+    margin-left: 15px; /* Space */
+    display: inline-flex;
+    align-items: center;
+}
+
+.rss-link:hover {
+    color: #7b1fa2;
+    text-decoration: underline;
+}
+
+/* RSS icon */
+.rss-link::before {
+    content: "";
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    margin-right: 4px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%239c27b0'%3E%3Cpath d='M6.18,15.64A2.18,2.18 0 0,1 8.36,17.82C8.36,19 7.38,20 6.18,20C5,20 4,19 4,17.82A2.18,2.18 0 0,1 6.18,15.64M4,4.44A15.56,15.56 0 0,1 19.56,20H16.73A12.73,12.73 0 0,0 4,7.27V4.44M4,10.1A9.9,9.9 0 0,1 13.9,20H11.07A7.07,7.07 0 0,0 4,12.93V10.1Z'/%3E%3C/svg%3E");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
 /* Footer styles */
 .site-footer {
     margin-top: 3rem;
@@ -37,10 +100,15 @@ body {
     text-align: center;
 }
 
-/* This media query applies styles when the screen width is 600px or less */
+/* Responsive adjustments */
 @media (max-width: 600px) {
-    body {
-        /* Reduce padding on smaller screens to 1rem to maximize content space */
-        padding: 1rem;
+    .header-container {
+        flex-direction: column;
+    }
+    
+    .header-right {
+        align-self: flex-end;
+        margin-top: -2.5rem;
     }
 }
+
