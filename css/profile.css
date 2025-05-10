@@ -1,4 +1,118 @@
 /* ==========================================================================
+   blog.css: Blog Styles
+   ========================================================================== */
+
+/* Blog post listing styles */
+.blog-posts {
+    margin-bottom: 3rem;
+}
+
+.blog-post {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.blog-post:last-child {
+    border-bottom: none;
+}
+
+.post-title {
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+}
+
+.post-title a {
+    color: #333;
+    text-decoration: none;
+}
+
+.post-title a:hover {
+    text-decoration: underline;
+}
+
+.post-meta {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 0.75rem;
+}
+
+.post-excerpt {
+    margin-bottom: 0.5rem;
+}
+
+/* Back link styles */
+.back-link {
+    margin: 2rem 0;
+}
+
+.back-link a {
+    color: #333;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+}
+
+.back-link a:hover {
+    text-decoration: underline;
+}
+
+/* Individual blog post page styles */
+.blog-content {
+    margin-bottom: 3rem;
+    line-height: 1.7;
+}
+
+.blog-content p {
+    margin-bottom: 1.5rem;
+}
+
+.blog-content h2 {
+    margin: 2rem 0 1rem;
+    font-size: 1.4rem;
+}
+
+.blog-content h3 {
+    margin: 1.5rem 0 0.75rem;
+    font-size: 1.2rem;
+}
+
+.blog-content ul, .blog-content ol {
+    margin: 1rem 0 1.5rem 1.5rem;
+}
+
+.blog-content li {
+    margin-bottom: 0.5rem;
+}
+
+.blog-content code {
+    background-color: #f5f5f5;
+    padding: 0.2rem 0.4rem;
+    border-radius: 3px;
+    font-family: monospace;
+}
+
+.blog-content pre {
+    background-color: #f5f5f5;
+    padding: 1rem;
+    border-radius: 5px;
+    overflow-x: auto;
+    margin: 1.5rem 0;
+}
+
+.blog-content pre code {
+    background-color: transparent;
+    padding: 0;
+}
+
+
+
+.section-title {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #eee;
+}/* ==========================================================================
    profile.css: Header Components
    ========================================================================== */
 
@@ -157,3 +271,56 @@
 .about-section {
     margin-bottom: 3rem;
 }
+
+/*README*/
+
+/* Additional CSS for the favorites on readme page */
+
+
+.favorites-list {
+    list-style-type: none;
+    margin: 1rem 0 3rem 0; /* Increased bottom margin between sections */
+}
+
+.favorites-list li {
+    margin-bottom: 1.5rem; /* Increased spacing between list items */
+    padding-left: 1.2rem;
+    position: relative;
+}
+
+.favorites-list li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #555;
+}
+
+.favorite-title {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.3rem;
+}
+
+.favorite-title a {
+    color: #333;
+    text-decoration: none;
+}
+
+.favorite-title a:hover {
+    text-decoration: underline;
+}
+
+.favorite-detail {
+    display: block;
+    color: #555;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+.section-title {
+    margin-top: 3rem; /* Increased top margin for better section separation */
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #eee;
+}
+
